@@ -11,7 +11,7 @@
         <label for="nama">Nama:</label>
         <input type="text" name="nama" id="nama" required><br><br>
 
-        <label for="usia">Usia:</label>
+        <label for="usi~a">Usia:</label>
         <input type="number" name="usia" id="usia" required><br><br>
 
         <label for="npm">NPM:</label>
